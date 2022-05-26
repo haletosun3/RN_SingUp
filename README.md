@@ -1,2 +1,3 @@
 # RN_SingUp
-üye işlemleri
+React Native 
+sing up and listing
